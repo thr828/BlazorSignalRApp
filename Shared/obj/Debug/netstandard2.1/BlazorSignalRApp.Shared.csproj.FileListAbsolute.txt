@@ -1,0 +1,8 @@
+D:\Project\BlazorSignalRApp\Shared\bin\Debug\netstandard2.1\BlazorSignalRApp.Shared.deps.json
+D:\Project\BlazorSignalRApp\Shared\bin\Debug\netstandard2.1\BlazorSignalRApp.Shared.dll
+D:\Project\BlazorSignalRApp\Shared\bin\Debug\netstandard2.1\BlazorSignalRApp.Shared.pdb
+D:\Project\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.AssemblyInfoInputs.cache
+D:\Project\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.AssemblyInfo.cs
+D:\Project\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.csproj.CoreCompileInputs.cache
+D:\Project\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.dll
+D:\Project\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.pdb
